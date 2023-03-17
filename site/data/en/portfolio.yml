@@ -1,0 +1,75 @@
+#################################### portfolio ###############################
+portfolio:
+  enable : true
+  title : Fotos
+  portfolio_item :
+    # portfolio item loop
+    - name : Sistema CCTV HD
+      image : images/portfolio/portfolio-1.jpg
+      image_webp : images/portfolio/portfolio-1.webp
+      categories : ["Cctv"]
+      content : Implementación del sistema de CCTV Avigilon de Alta Definición
+      link : "#"
+      
+    # portfolio item loop
+    - name : Sistemas CCTV Analogos
+      image : images/portfolio/portfolio-2.jpg
+      image_webp : images/portfolio/portfolio-2.webp
+      categories : ["Cctv","Data"]
+      content : Sistema de seguridad de instalaciones de amplia cobertura.
+      link : "#"
+      
+    # portfolio item loop
+    - name : Data Center
+      image : images/portfolio/portfolio-3.jpg
+      image_webp : images/portfolio/portfolio-3.webp
+      categories : ["Cctv"]
+      content : Implementación del sistema de CCTV Avigilon con infraestructura DELL.
+      link : "#"
+      
+    # portfolio item loop
+    - name : Video Wall
+      image : images/portfolio/portfolio-4.jpg
+      image_webp : images/portfolio/portfolio-4.webp
+      categories : ["Cctv"]
+      content : Implementación del sistema de CCTV Avigilon con Video Walls.
+      link : "#"
+    # portfolio item loop
+    - name : CCTV Proyecto Privado
+      image : images/portfolio/portfolio-5.jpg
+      image_webp : images/portfolio/portfolio-5.webp
+      categories : ["Cctv","Data"]
+      content : Sistemas de Circuito cerrado para clientes privados.
+      link : "#"
+      
+    # portfolio item loop
+    - name : Monitorización Centralizada
+      image : images/portfolio/portfolio-6.jpg
+      image_webp : images/portfolio/portfolio-6.webp
+      categories : ["Cctv"]
+      content : Sistema de seguridad de instalaciones de amplia cobertura.
+      link : "#"
+      
+    # portfolio item loop
+    - name : Multi PTZ para vigilancia individual
+      image : images/portfolio/portfolio-7.jpg
+      image_webp : images/portfolio/portfolio-7.webp
+      categories : ["Cctv"]
+      content : Sistemas de seguridad hibridos
+      link : "#"
+      
+    # portfolio item loop
+    - name : Instalaciones Limpias
+      image : images/portfolio/portfolio-8.jpg
+      image_webp : images/portfolio/portfolio-8.webp
+      categories : ["Cctv"]
+      content : Instalaciones realizadas con alta profesionalidad
+      link : "#"
+      
+    # portfolio item loop
+    - name : Proyectos Integrados de CCTV+Data+VoIP
+      image : images/portfolio/portfolio-9.jpg
+      image_webp : images/portfolio/portfolio-9.webp
+      categories : ["Cctv", "Data","Wifi","Voip"]
+      content : CCTV, Datos, WiFi, VoIP para proyectos grandes.
+      link : "#"

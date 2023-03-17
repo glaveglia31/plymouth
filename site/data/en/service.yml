@@ -1,0 +1,34 @@
+################################# Service #################################
+service:
+  enable : true
+  title : Nuestros Servicios
+  service_item :
+    # service item loop
+    - name : Integración de Servicios
+      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
+      content : Las Infraestructuras de Sistemas, Almacenamiento y Red son las capas imprescindibles que soportan las aplicaciones y procesos de negocio de la empresa. Las compañías requieren y exigen que dicha infraestructura sea estable y eficaz, y difícilmente se admite que fallos en la misma puedan llegar a afectar al funcionamiento del negocio.
+      
+    # service item loop
+    - name : Servicios IT
+      icon : ti-mouse-alt # themify icon pack : https://themify.me/themify-icons
+      content : Plymouth Ofrece servicios de Tecnologia que pueden generar resultados visibles para tu empresa. En Plymouth Contamos con una amplia gama de servicios TI. Continuidad de Negocios Servicios para Usuarios Finales Comunicaciones Integradas Arquitectura y Estrategia de TI Mantenimiento y Soporte Técnico Servicios de Seguridad.
+      
+    # service item loop
+    - name : Soporte
+      icon : ti-headphone-alt # themify icon pack : https://themify.me/themify-icons
+      content : La administración y el mantenimiento de cualquier red está llena de sorpresas y problemas de soporte técnico. Podemos tomar el proceso de soporte de la red de sus manos, así que en vez de luchar con su red, usted puede centrarse en la innovación y el funcionamiento de su organización. Estamos a su disposición las 24 horas del día, 7 días a la semana.
+      
+    # service item loop
+    - name : Servicios de Consultoria
+      icon : ti-check-box # themify icon pack : https://themify.me/themify-icons
+      content : Es hora de actualizar el hardware y el software antiguo, pero ¿por dónde empezar? Nuestro equipo puede entrar, sentarse y tener una comprensión real de dónde se encuentra y lo que las soluciones de TI son perfectos para ti. Podemos evaluar, planificar, y ejecutar una estrategia completa para sus necesidades de TI.
+      
+    # service item loop
+    - name : Telefonia IP
+      icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      content : Es hora de deshacerse de ese sistema de teléfono caro y migrar a una solución de VoIP de teléfono nuevo. VoIP utiliza la potencia y la velocidad de Internet, para proporcionar una experiencia rica en características, por una fracción del costo. Podemos ofrecer soluciones de VoIP de compañías como Cisco, Asterisk, Trixbox, Elastix y más.
+      
+    # service item loop
+    - name : Sistemas de Seguridad
+      icon : ti-shield # themify icon pack : https://themify.me/themify-icons
+      content : Somos expertos en la integración de sistemas de seguridad en todo tipo de edificios e instalaciones. Contamos con los mejores sistemas de seguridad. Dichos sistemas Permiten la gestión de la seguridad del edificio tanto de forma local como remota posibilitando la gestión múltiple y deslocalizada de edificios.

@@ -1,0 +1,16 @@
+############################# About ###################################
+about:
+  enable : true
+  title : Sobre Nosotros
+  about_item :
+  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
+    title : Mision
+    content : Proveer Productos y servicios superiores a nuestros clientes, por medio del desarrollo de soluciones integrales e innovaciones que ayuden a organizar el mundo de la información y hacerlos útiles y accesibles universalmente.
+
+  - icon : ti-medall # themify icon pack : https://themify.me/themify-icons
+    title : Vision
+    content : Consolidar el nombre Plymouth como lider en el sector tecnológico, y ser reconocido como una consultora que tenga conciencia social, que el servicio al cliente sera el mas elevado y que por mas que crezca la empresa, siempre conserve el lema de atención personalizada.
+
+ # - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+ #   title : We're Genius
+ #   content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.

@@ -1,0 +1,26 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Contacto
+  subtitle : Detalles de Contacto
+  #content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  form_action: "https://formspree.io/maypngog" #contact form works with https://formspree.io
+
+  contact_details :
+    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info : "Av. Venezuela, Edif. Venezuela, Piso 08 Oficina 86, El Rosal, Caracas Venezuela"
+      
+    - icon : ti-headphone-alt # themify icon pack : https://themify.me/themify-icons
+      info : "Telefono: ‎+58 212-9530743"
+      
+    - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
+      info : "Fax: +58 212-9527446"
+
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info : "Mobil 1: +58 414-2602406"
+
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info : "Mobil 2: +58 426-8209462"
+      
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "Email: info@plymouth.com.ve"

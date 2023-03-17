@@ -1,0 +1,12 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_image_webp : "images/backgrounds/hero-area.webp"
+  bg_image : "images/backgrounds/hero-area.jpg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "Plymouth Overseas Limited"
+  content : "Ayudamos a proveedores de servicios relacionados con la tecnología en la construcción, comercialización, operación y soporte de sus nuevas ofertas de servicios tecnológicos."
+  button:
+    enable : true
+    label : "Conocenos"
+    link : "#services"

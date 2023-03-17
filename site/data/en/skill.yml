@@ -1,0 +1,26 @@
+################################# Skill ##################################
+skill:
+  enable : true
+  title : Nuestras habilidades
+  subtitle : Somos expertos en una amplia gama de servicios de tecnologia.
+  content : Especializados en consultoría de TIC, estrategia de TIC, consultoría en la nube, capacitación en TI, CCTV profesional, conciencia de seguridad del usuario final y lugar de trabajo moderno.
+  #image : images/about/company-growth.webp
+  skill_item :
+    # skill item loop
+    - name :  Gestión de Proyectos de TI
+      percent : 90%
+      
+    # skill item loop
+    - name : Consultoría de TI
+      percent : 80%
+      
+    # skill item loop
+    - name :  Seguridad Perimetral
+      percent : 100%
+      
+    - name :  Capacitación en TI
+      percent : 95%
+      
+    # skill item loop
+    - name :  Soporte
+      percent : 75%

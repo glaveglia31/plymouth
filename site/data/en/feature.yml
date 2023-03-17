@@ -1,0 +1,27 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/about/about-business-man.jpg
+  image_webp : images/about/about-business-man.webp
+  title : ¿Qué nos define?
+  content : 
+  feature_item : 
+      # feature item loop
+    - title : Equipo cualificado
+      icon : ti-medall # themify icon pack : https://themify.me/themify-icons
+      content : El equipo de Plymouth está formado y certificado en las últimas tecnologías, conoce en profundidad los productos de los principales fabricantes y puede por tanto desplegar estas tecnologías en su compañía con total garantía.
+      
+      # feature item loop
+    - title : Experiencia y juventud
+      icon : ti-user # themify icon pack : https://themify.me/themify-icons
+      content : Combina en su equipo profesionales con más de una década de experiencia asesorando e implantando tecnologías de la información, con profesionales jóvenes al tanto de las últimas tendencias digitales.
+
+      # feature item loop
+    - title : Eficientes en coste
+      icon : ti-money # themify icon pack : https://themify.me/themify-icons
+      content : El coste de los servicios de Plymouth está cuidadosamente ajustado al uso que realiza, de manera que evoluciona con su empresa, optimizando los recursos que tiene que destinar a las tecnologías, y aprovechando las sinergias de costes entre todos sus clientes.
+      
+      # feature item loop
+    - title : Sólida experiencia
+      icon : ti-star # themify icon pack : https://themify.me/themify-icons
+      content : Desde hace casi una década Plymouth ayuda a muchas empresas a mejorar su productividad con el uso de tecnologías de la información.
